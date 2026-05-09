@@ -1,38 +1,31 @@
-# Netflix Data Analysis using Python
+# Netflix EDA Project
 
-This project performs Exploratory Data Analysis (EDA) on Netflix Movies and TV Shows dataset using Python libraries like Pandas, Matplotlib, and Seaborn.
+## Overview
+This project performs Exploratory Data Analysis (EDA) on the Netflix Titles dataset using Python.
 
-## Objectives
-- Analyze Netflix content trends
-- Explore Movies vs TV Shows
-- Study ratings, genres, countries, and release years
-- Visualize insights using charts and graphs
-
-## Tools & Libraries Used
+## Tools & Technologies
 - Python
 - Pandas
-- NumPy
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
 
-## Project Workflow
-1. Data Collection
-2. Data Cleaning
-3. Exploratory Data Analysis
-4. Data Visualization
-5. Insights Generation
+## Tasks Performed
+- Data Cleaning
+- Handling Missing Values
+- Data Exploration
+- Data Visualization
+- Trend Analysis
 
-## Key Insights
-- Movies dominate Netflix content
-- Most content was added after 2015
-- Drama and Comedy are among the top genres
-- United States has the highest content count
+## Visualizations Included
+- Movies vs TV Shows
+- Content by Rating
+- Content by Release Year
+- Country-wise Content Distribution
 
-## Files Included
-- Netflix_EDA.ipynb
-- netflix_titles.csv
-- README.md
+## Dataset
+Netflix Titles Dataset
 
-## Conclusion
-This project helped understand trends and patterns in Netflix content through data analysis and visualization.
+## Internship
+Completed as part of CodeAlpha Data Analytics Internship.
+
